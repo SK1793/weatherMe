@@ -10,11 +10,11 @@ This is an Android App For Dowloading Files.
     </div>  
     <div class="col-auto">
       <img src="./SK1793.github.io/tree/media/weatherMe/1.png" width="300" height="550">
-      <img src="SK1793.github.io/tree/mySpace/media/weatherMe/2.png" width="300" height="550">
+      <img src="./SK1793.github.io/tree/mySpace/media/weatherMe/2.png" width="300" height="550">
     </div>    
     <div class="col-3">
-      <img src="Resources/3.png" width="300" height="550">
-      <img src="Resources/4.png" width="300" height="550">
+      <img src="../SK1793.github.io/tree/mySpace/media/weatherMe/3.png" width="300" height="550">
+      <img src="/SK1793.github.io/tree/mySpace/media/weatherMe/4.png" width="300" height="550">
     </div>    
     <div class="col-3">
       <img src="Resources/5.png" width="300" height="550">
