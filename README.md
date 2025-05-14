@@ -1,5 +1,5 @@
 # weatherMe
-This is an Android App For Dowloading Files.
+This is an Android App For Weather Foracst.
 
 (Below Are some ScreenShots Of the App)
 
@@ -9,7 +9,7 @@ This is an Android App For Dowloading Files.
       <img src="Resources/playstore.png">
     </div>  
     <div class="col-auto">
-      <img src="./SK1793.github.io/media/weatherMe/1.png" width="300" height="550">
+      <img src="https://sk1793.github.io/media/weatherMe/1.png" width="300" height="550">
       <img src="./SK1793.github.io/tree/mySpace/media/weatherMe/2.png" width="300" height="550">
     </div>    
     <div class="col-3">
