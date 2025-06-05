@@ -15,4 +15,4 @@ This is an Android App For Weather Foracst.
     </div>    
 </div>
 
-<p><span>(pswrd-Peace2all)</span></p>
+<p><span>(Compressed File pswrd-Peace2all)</span></p>
