@@ -1,6 +1,11 @@
 # weatherMe
 This is an Android App For Weather Foracst.
 
+## Installation
+<p>First download all parts of Project rar files and extract open the root folder of that extracted folder in Android studio run and see if any files missing try to solve it ,if having trouble the contact me ,it'll be my pleasure to help.</p>
+<p><span>(Compressed Files pswrd-Peace2all)</span></p>
+
+
 (Below Are some ScreenShots Of the App)
 
 <div class="container">
@@ -15,4 +20,4 @@ This is an Android App For Weather Foracst.
     </div>    
 </div>
 
-<p><span>(Compressed Files pswrd-Peace2all)</span></p>
+<p><b>Thank YOU!</b></p>
